@@ -1,0 +1,38 @@
+h2{
+    background-color: #7faeb7;
+}
+
+h3{
+    color: #7faeb7;
+}
+
+hr {
+    border-color:#7faeb7;
+    border-style: solid;
+    border-width: 3px;
+}
+
+h3 a:link{
+    text-decoration: none;
+    color: #7faeb7;
+}
+
+h3 a:visited{
+    color:  #c9e0e5;
+}
+
+h3 a:hover{
+    color:  #ffa700;
+}
+
+img:hover{
+    border: #ffa700 solid 3px;
+}
+
+a:first-of-type img:hover{
+    border-radius: 25px 0px 0px 25px;
+}
+
+a:last-of-type img:hover{
+    border-radius: 0px 25px 25px 0px;
+}

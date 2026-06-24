@@ -1,0 +1,22 @@
+body{
+    width: 650px;
+    text-align: justify;
+    margin: auto;
+    background-color: #fcfcfc;
+}
+
+h1{
+    color: #764e36;
+    border-top: solid #764e36;
+    border-bottom: solid #764e36;
+}
+
+h3{
+    color: white;
+    background-color: #764e36;
+}
+
+img{
+    border: solid #764e36;
+    padding: 10px;
+}

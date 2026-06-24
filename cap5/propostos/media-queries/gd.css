@@ -1,0 +1,35 @@
+        body{
+            max-width: 1800px;
+            margin: auto;
+            width: 90%;
+        }
+
+        section{
+            float: left;
+            width: 30%;
+        }
+
+        section img{
+            max-width: 100%;
+        }
+
+        section:nth-child(2){
+            margin: 0 2%;
+        }
+
+        section:last-of-type img{
+            padding-bottom: 21%;
+        }
+
+        section:last-of-type{
+            float: left;
+            width: 30%;
+        }
+
+        .soGrande{
+            display: block;
+        }
+
+        .soMedio, .soPequeno{
+            display: none;
+        }

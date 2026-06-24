@@ -1,0 +1,23 @@
+        body{
+            max-width: 1800px;
+            margin: auto;
+            width: 90%;
+        }
+
+        section{
+            width: 90%;
+            float: none;
+            margin: auto;
+        }
+
+        section img{
+            max-width: 100%;
+        }
+
+        .soGrande, .soMedio{
+            display: none;
+        }
+
+        .soPequeno{
+            display: block;
+        }

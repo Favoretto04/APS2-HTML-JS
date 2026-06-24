@@ -1,0 +1,26 @@
+body {
+    background: #fffcd8 url(cabecalhos_back.png) repeat-y;
+    margin-left: 170px;
+}
+
+h1,
+h2 {
+    color: #906718;
+}
+
+hr {
+    border-color: #d48b00;
+    border-style: dashed;
+    border-width: 3px;
+    /**/
+}
+
+h3 {
+    color: white;
+    background-color: #d48b00;
+    padding: 3px;
+}
+
+p {
+    text-indent: 30px;
+}
